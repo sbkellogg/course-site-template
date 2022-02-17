@@ -38,7 +38,6 @@ header_pages:
     url: "https://sbkellogg.github.io/eci-589/"
     absolute: true
     
-
 footer_pages: 
   - title: Home
     url: /
